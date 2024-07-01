@@ -17,7 +17,7 @@ package.json
   "name": "my-awesome-package"
 }
 
-yarn add [name]
+yarn add [inch]
 node_modules/[name]
 https://registry.npmjs.org/[name]/-/[name]-[version].tgz
 {
@@ -51,8 +51,8 @@ https://registry.npmjs.org/[name]/-/[name]-[version].tgz
 }
 {
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com",
+    "name": "Сourtney",
+    "email": "mrlaylowcj@icloud.com",
     "url": "http://your-website.com"
   },
   "author": "Your Name <you@example.com> (http://your-website.com)"
